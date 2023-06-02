@@ -1,0 +1,2 @@
+# PyVoyis ROS2 Package
+This package contains the ROS2 node for the PyVoyis driver. The nodes are written in Python and are used to control the camera, strobes and laser system from Voyis - named Recon LS.
